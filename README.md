@@ -41,9 +41,13 @@ Here’s a sneak peek at what I’m working on:
 
 **📫 Let’s Connect**
 Feel free to reach out or check out more of my work!
+
 💌 Email: virooshny_s@outlook.com
+
 💼 LinkedIn: https://www.linkedin.com/in/virooshnyshanthakumaran
+
 🌐 Portfolio: https://github.com/virooshny/Portfolio-Website
+
 🧬 Fun fact: I love connecting tech with science!
 
 <!---
