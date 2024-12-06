@@ -4,11 +4,16 @@
 Welcome to my GitHub profile! I’m a Biomedical Sciences graduate with a passion for technology and coding. My journey began in genetics, and now I’m channeling that analytical mindset into creating impactful software solutions.
 
 **🌟 About Me**
+
 🎓 Graduate in Biomedical Sciences (Genetics) from Brunel University.
+
 💻 Transitioning into tech with certifications in Python and SQL.
+
 🚀 Currently building projects that bridge healthcare and technology.
+
 🎨 In my free time, I enjoy exploring art, gaming, and staying active!
-🛠️ Skills & Technologies
+
+**🛠️ Skills & Technologies**
 
 **Languages**
 Python 🐍 | SQL 🗄️ | JavaScript 🌐 | C++ | Java ☕
