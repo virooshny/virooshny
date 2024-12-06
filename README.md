@@ -34,22 +34,29 @@ Advanced data visualization techniques
 Here’s a sneak peek at what I’m working on:
 
 **1. Portfolio Website** https://github.com/virooshny/Portfolio-Website
+
 🌐 A responsive, mobile-friendly website showcasing my projects and skills.
+
 🎨 Custom theme inspired by genetics and art.
 
 **2. Snake Game** https://github.com/virooshny/Snake-Game
+
 🎮 A classic game built with [Python/JavaScript/etc.].
 
 **3. News API Integration** https://github.com/virooshny/News-API-Integration
+
 📰 Fetches and displays real-time news using REST APIs.
 
 **4. Health Tracker App** https://github.com/virooshny/Health-Tracker-App
+
 🏋️ Tracks workouts and diets with an intuitive UI and data visualization.
 
 **5. Healthcare Trends Analysis** https://github.com/virooshny/Healthcare-Data-Analysis
+
 📊 Provides insights into healthcare trends in the UK with clean visuals.
 
 **📫 Let’s Connect**
+
 Feel free to reach out or check out more of my work!
 
 💌 Email: virooshny_s@outlook.com
