@@ -16,16 +16,21 @@ Welcome to my GitHub profile! I’m a Biomedical Sciences graduate with a passio
 **🛠️ Skills & Technologies**
 
 **Languages**
+
 Python 🐍 | SQL 🗄️ | JavaScript 🌐 | C++ | Java ☕
 
 **Tools & Frameworks**
+
 Git & GitHub | Flask | Pandas | Matplotlib | VS Code
 
 **Currently Learning**
+
 React.js for dynamic web apps
+
 Advanced data visualization techniques
 
 **🚀 Featured Projects**
+
 Here’s a sneak peek at what I’m working on:
 
 **1. Portfolio Website** https://github.com/virooshny/Portfolio-Website
