@@ -13,21 +13,25 @@ Welcome to my GitHub profile! I’m a Biomedical Sciences graduate with a passio
 
 🎨 In my free time, I enjoy exploring art, gaming, and staying active!
 
+
 **🛠️ Skills & Technologies**
 
 **Languages**
 
 Python 🐍 | SQL 🗄️ | JavaScript 🌐 | C++ | Java ☕
 
+
 **Tools & Frameworks**
 
 Git & GitHub | Flask | Pandas | Matplotlib | VS Code
+
 
 **Currently Learning**
 
 React.js for dynamic web apps
 
 Advanced data visualization techniques
+
 
 **🚀 Featured Projects**
 
